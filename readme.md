@@ -1,4 +1,10 @@
-# Qt widget
-Simple Qt python app using PySide6.<br>
-Both UI and logic contained in a single file.<br>
-To be used as a template for other apps or just for reference.
+# Instrumentor
+Simple cross-platform app for controlling electronic measurement instruments.<br>
+
+<br>
+Features:<br>
+- Sending/reading SCPI commands<br>
+- Simple scripting (multiple commands), e.g. for configuring measurements or basic automation of measurements<br>
+- Quick access command buttons (user configurable)<br>
+- Saving/recalling states<br>
+- Saving measurement data & screenshots<br>
